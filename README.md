@@ -70,9 +70,10 @@ A simple interactive Tic-Tac-Toe game developed using web technologies.
 
 ## 🏆 Certifications
 
-* 📜 DataCamp Certificate — Data Science / Programming
-* 📜 DataCamp Certificate — Data Analysis
-* 📜 DataCamp Certificate — Programming
+* 📜 Introduction to Python
+* 📜 Data Manipulation in SQL
+* 📜 Introduction to GitHub
+
 
 ---
 
